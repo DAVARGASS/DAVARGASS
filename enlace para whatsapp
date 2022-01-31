@@ -1,0 +1,6 @@
+-root@kali:/home/iicybersecurity# git clone https://github.com/thelinuxchoice/ohmyqr- 👀 I’m interested in ...
+- Cloning into 'ohmyqr'…
+remote: Enumerating objects: 23, done.
+remote: Total 23 (delta 0), reused 0 (delta 0), pack-reused 23
+Receiving objects: 100% (23/23), 20.95 KiB | 437.00 KiB/s, done.
+Resolving deltas: 100% (8/8), done.
